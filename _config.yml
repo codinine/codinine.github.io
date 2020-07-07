@@ -133,8 +133,8 @@ comments:
     clientSecret: 928f60d6aca056546eafa2ca6a980a0ab0954669 # GitHub Application Client Secret
     repository  : codinine.github.io # GitHub repo
     owner       : codinine # GitHub repo owner
-    admin: codinine # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+       - codinine
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
