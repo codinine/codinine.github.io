@@ -131,7 +131,7 @@ comments:
   gitalk:
     clientID    : 7047f323089f5536c3ca # GitHub Application Client ID
     clientSecret: 928f60d6aca056546eafa2ca6a980a0ab0954669 # GitHub Application Client Secret
-    repository  : codinine/codinine.github.io # GitHub repo
+    repository  : codinine.gitalk # GitHub repo
     owner       : codinine # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
        - codinine
